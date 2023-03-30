@@ -34,9 +34,7 @@ https://jkbdws.web.app/
  
  ![image](https://user-images.githubusercontent.com/115718272/228798725-75d84de6-df59-4e68-be80-7fd613cc31a2.png)
 
-<!--  ![image](https://user-images.githubusercontent.com/90970004/219631135-4d86dee2-eb2a-4fb9-82d1-230ab4e918fa.png) -->
-
- ![image](https://user-images.githubusercontent.com/90970004/219631228-00802c18-2fd0-4252-b0d2-48d469891491.png)
+ ![image](https://user-images.githubusercontent.com/115718272/228799038-34a3737e-f258-4065-9df0-bebae5452359.png)
 
  ![image](https://user-images.githubusercontent.com/90970004/219631313-a425edb0-6a10-4b33-8204-b09f540c7e3d.png)
 
