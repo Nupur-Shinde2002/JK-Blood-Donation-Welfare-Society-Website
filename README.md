@@ -21,7 +21,7 @@ JK Blood Donors And Welfare Society
 1 ) Clone project with git
 
 ```bash
-git clone https://github.com/mankotia412vishal/JKBDWS
+git clone https://github.com/Nupur-Shinde2002/JK-Blood-Donation-Welfare-Society-Website
 ```
 2 ) Working URL of the website 
 ```bash
@@ -47,5 +47,5 @@ https://jkbdws.web.app/
 
 ## Support
 
-For support, email mankotia412vishal@gmail.com.
+For support, email nupur.shinde20@vit.edu
 
