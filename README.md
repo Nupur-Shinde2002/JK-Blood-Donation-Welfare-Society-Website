@@ -40,7 +40,7 @@ https://jkbdws.web.app/
 
  ![image](https://user-images.githubusercontent.com/115718272/228800154-da519d3c-14fd-42bc-92b4-b491e25793e9.png)
 
- ![image](https://user-images.githubusercontent.com/90970004/219631637-5df66eb5-1dc0-49ad-9366-107be9145e5a.png)
+ ![image](https://user-images.githubusercontent.com/115718272/228800413-4fb9e765-f0e7-4172-b1ef-0dff1764c41c.png)
 
 ---
  
